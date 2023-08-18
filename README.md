@@ -1,0 +1,1 @@
+Customer relationship management web app , It was built for a financial investment firm called Express Rupya. This app contains different types of dashboards to track the process of each borrower and lender. It also automates multiple communication process betwenn lender , borrower and team members
